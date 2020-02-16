@@ -52,6 +52,7 @@ p img {
     width: 24px;
     height: 24px;
     color: #3498db;
+    vertical-align: middle;
 }
 
 span {
