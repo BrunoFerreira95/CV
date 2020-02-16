@@ -4,6 +4,7 @@
     outline: 0;
     box-sizing: border-box;
     background-color: #ecf0f1;
+    font-family: "Roboto", sans-serif;
 }
 
 .grid-container {
@@ -85,3 +86,13 @@ img {
         margin: 20px;
     }
 }
+
+footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    height: 100px;
+    background-color: #3498db;
+}
+
