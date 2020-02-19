@@ -1,5 +1,6 @@
 # www.robotstxt.org/
 
+Sitemap: https://www.bruno.imfast.io/sitemap.xml
 # Allow crawling of all content
 User-agent: *
 Disallow:
