@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
 
-<url>
-  <loc>https://bruno.imfast.io/</loc>
-  <lastmod>2020-02-19T17:19:57+00:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+   <url>
 
-</urlset>
+      <loc>https://bruno.imfast.io/</loc>
+
+      <lastmod>2020-02-19</lastmod>
+
+   </url>
+
+</urlset> 
