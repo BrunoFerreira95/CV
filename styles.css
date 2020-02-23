@@ -77,6 +77,13 @@ span {
     margin: 10px;
 }
 
+.contato hr {
+    margin: 7px 0px;
+}
+
+.contato p a {
+    margin-right: 20px;
+}
 h1 {
     display: contents;
 }
