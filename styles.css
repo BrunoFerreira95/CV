@@ -82,7 +82,11 @@ span {
 }
 
 .contato p a {
-    margin-right: 20px;
+    margin: 6px;
+}
+
+.contato p a img {
+    margin-top: 8px;
 }
 h1 {
     display: contents;
